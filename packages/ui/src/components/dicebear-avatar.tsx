@@ -52,7 +52,7 @@ export const DiceBearAvatar = ({
       {badgeImageURL && (
         <div
           className={cn(
-            "absolute top-0 right-0 flex items-center justify-center overflow-hidden rounded-full border-2 border-background bg-background",
+            "absolute bottom-0 right-0 flex items-center justify-center overflow-hidden rounded-full border-2 border-background bg-background",
             badgeClassName
           )}
           style={{
