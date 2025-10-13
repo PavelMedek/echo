@@ -16,7 +16,6 @@
     "@hookform/resolvers": "^5.2.2",
     "@vapi-ai/web": "^2.4.0",
     "@workspace/backend": "workspace:*",
-    "@workspace/math": "workspace:*",
     "@workspace/ui": "workspace:*",
     "convex": "1.25.4",
     "date-fns": "^4.1.0",
